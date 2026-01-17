@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Nightly Suite">
+    <test name="Nightly Tests">
+        <classes>
+            <class name="NightlySuite"/>
+        </classes>
+    </test>
+</suite>
